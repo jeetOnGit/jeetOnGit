@@ -1,5 +1,5 @@
 # 💫 Hi👋 I'm Jeet Das, A Frontend Dev:
-⭐ I'm currently working on Airbnb clone<br>🙌 Presently studying in 3rd year in BCOM<br>📢 The goal is to become an efficient dev
+🙌 Presently studying in 3rd year in BCOM<br>📢 The goal is to become an efficient dev
 
 
 ## 🌐 Socials:
